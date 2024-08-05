@@ -1,7 +1,7 @@
 
-import ProductInfoCard from "../components/productInfoCard";
-import NavBar from "../components/navbar";
-import CatBar from "../components/categorybar";
+import ProductInfoCard from "../src/components/productInfoCard";
+import NavBar from "../src/components/navbar";
+import CatBar from "../src/components/categorybar";
 import { useNavigate } from "react-router-dom";
 
 
